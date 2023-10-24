@@ -1,2 +1,2 @@
 # semester3
-pemograman bersbais platform
+pemograman bersbasis platform
